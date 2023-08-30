@@ -69,5 +69,4 @@ yarn.lock
 *.xslx
 
 # node modules
-
 .node_modules
