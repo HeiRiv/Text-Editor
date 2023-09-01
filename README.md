@@ -17,6 +17,9 @@ This is a text editor app that runs in the browser that allows the user to creat
 😄 Please see below a quick view of the deployed application 😄 
 
 
+<img width="1440" alt="Screenshot 2023-08-31 at 10 16 16 PM" src="https://github.com/HeiRiv/Text-Editor/assets/128196586/c9b8238f-d88d-42f3-a00a-ef9ce4fde5da">
+
+
 
 This is the link for the webiste: 
 
