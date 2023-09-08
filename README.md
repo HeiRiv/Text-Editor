@@ -21,7 +21,7 @@ This is a text editor app that runs in the browser that allows the user to creat
 
 
 
-This is the link for the webiste: 
+This is the link for the webiste: https://radiant-atoll-65042-fe1819f5d353.herokuapp.com/ 
 
 ## Credits 
 
